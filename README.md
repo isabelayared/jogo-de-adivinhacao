@@ -3,8 +3,8 @@
 
 <h2>📜 Sobre o Jogo</h2>
 <h4>No Jogo de Adivinhação, o computador escolhe um número aleatório dentro de um intervalo definido, e o jogador precisa adivinhar qual é.</h4>
-<h4>A cada tentativa, o programa dá uma dica: o número é maior ou menor?</h4>
-<h4>O jogo termina quando o jogador acerta ou desiste.</h4>
+<h4>- A cada tentativa, o programa dá uma dica: o número é maior ou menor?</h4>
+<h4>- O jogo termina quando o jogador acerta ou desiste.</h4>
 <h3>🎯 Seu desafio: Descubra o número no menor número de tentativas possível!</h3>
 
 <h2>🏆 Contribuições</h2>
